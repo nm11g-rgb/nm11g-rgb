@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nm11g-rgb or Nevin Manimala
+- 👋 Hi, I’m @nm11g-rgb or <a href="https://nevinmanimala.com/">Nevin Manimala</a>
 - 👀 I’m interested in ... C#, Javascript, Python
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... C# and Python projects
